@@ -1,4 +1,4 @@
-package io.kestra.plugin.templates;
+package io.kestra.plugin.sfdc;
 
 import io.kestra.core.models.annotations.Plugin;
 import io.swagger.v3.oas.annotations.media.Schema;
